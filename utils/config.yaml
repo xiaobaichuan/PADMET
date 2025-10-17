@@ -1,0 +1,15 @@
+training:
+  batch_size: 64
+  epochs: 100
+  learning_rate: 0.001
+  num_workers: 4
+
+paths:
+  model_save_path: './models'
+  output_save_path: './output'
+  train_reg_data_path: "./data/train_adme_test.xlsx"
+  train_class_data_path: "./data/train_tox.xlsx"
+  test_class_data_path: "./data/test_tox.xlsx"
+  test_reg_data_path: "./data/test_adme_test.xlsx"
+  test_grad_cam_data_path: "./data/peptherdia_grad_cam2.xlsx"
+
