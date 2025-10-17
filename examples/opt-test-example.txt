@@ -1,0 +1,8 @@
+Sequence (required): AFASYNLKPA
+Subject: Human
+Route: Intravenous
+Optimization Weights: 1.0 (BA), 1.0 (VD), 1.0 (T1/2), 1.0 (CL), 10 (Toxicity)
+Bioavailability range: (0.2, 1.0)
+VD range: (0.1, 1)
+T1/2 range: (60, 100000)
+CL range: (0, 10)
