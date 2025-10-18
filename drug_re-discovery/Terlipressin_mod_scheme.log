@@ -1,57 +1,56 @@
-
-原始序列: GGGCYFQNCPKG
-推荐修饰方案：
-位置 1:
+Native Sequence: GGGCYFQNCPKG
+Modification Scheme: 
+Position 1:
   No-mod: 18.06%
   deamino: 17.61%
   decanoyl: 16.66%
   4-fluorobenzoyl: 16.43%
   formyl: 16.22%
   acetyl: 15.03%
-位置 2:
+Position 2:
   No-mod: 100.00%
-位置 3:
+Position 3:
   No-mod: 100.00%
-位置 4:
+Position 4:
   >>DL-cysteinyl: 34.45%
   No-mod: 34.11%
   >>D-cysteinyl: 31.44%
-位置 5:
+Position 5:
   N-methylation: 32.99%
   No-mod: 23.70%
   >>D-tyrosyl: 23.46%
   >>DL-tyrosyl: 19.85%
-位置 6:
+Position 6:
   4-((S)-dihydroorotamido): 22.03%
   4-chloro: 19.02%
   >>D-phenylalanyl: 16.14%
   No-mod: 15.95%
   >>DL-phenylalanyl: 14.58%
   4-ureido: 12.28%
-位置 7:
+Position 7:
   >>DL-glutaminyl: 36.69%
   >pyroglutamic acid: 33.75%
   No-mod: 29.56%
-位置 8:
+Position 8:
   >>D-asparaginyl: 38.44%
   No-mod: 34.49%
   >>DL-asparaginyl: 27.07%
-位置 9:
+Position 9:
   >>DL-cysteinyl: 34.47%
   No-mod: 34.10%
   >>D-cysteinyl: 31.43%
-位置 10:
+Position 10:
   >>D-prolyl: 23.00%
   >L-proline ethylamide: 20.33%
   alpha-methyl: 19.21%
   No-mod: 18.98%
   >>DL-prolyl: 18.48%
-位置 11:
+Position 11:
   >>DL-lysyl: 27.06%
   N6-isopropyl modification: 25.56%
   >>D-lysyl: 25.39%
   No-mod: 21.99%
-位置 12:
+Position 12:
   No-mod: 35.27%
   >glycinamide: 33.46%
   >glycinol: 31.27%

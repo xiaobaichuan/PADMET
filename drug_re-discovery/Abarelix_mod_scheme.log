@@ -1,7 +1,6 @@
-
-原始序列: AFASYNLKPA
-推荐修饰方案：
-位置 1:
+Native Sequence: AFASYNLKPA
+Modification Scheme: 
+Position 1:
   4-fluorobenzoyl: 7.90%
   acetyl: 7.65%
   >>DL-alanyl: 7.62%
@@ -16,14 +15,14 @@
   decanoyl: 6.75%
   No-mod: 6.73%
   thienyl: 6.64%
-位置 2:
+Position 2:
   4-chloro: 18.36%
   4-ureido: 16.93%
   >>DL-phenylalanyl: 16.83%
   4-((S)-dihydroorotamido): 16.63%
   >>D-phenylalanyl: 16.33%
   No-mod: 14.93%
-位置 3:
+Position 3:
   >>beta-alanyl: 12.38%
   >>DL-alanyl: 11.74%
   3-(2-naphthyl): 11.27%
@@ -33,39 +32,39 @@
   thienyl: 10.83%
   >>D-alanyl: 10.78%
   No-mod: 9.90%
-位置 4:
+Position 4:
   O-tert-butyl: 24.10%
   >>D-seryl: 22.87%
   >>DL-seryl: 19.61%
   >L-prolinehydrazide: 17.32%
   No-mod: 16.10%
-位置 5:
+Position 5:
   >>DL-tyrosyl: 26.41%
   N-methylation: 26.04%
   >>D-tyrosyl: 24.39%
   No-mod: 23.16%
-位置 6:
+Position 6:
   >>DL-asparaginyl: 37.33%
   >>D-asparaginyl: 35.65%
   No-mod: 27.02%
-位置 7:
+Position 7:
   >L-norleucyl: 22.11%
   >>DL-leucyl: 21.25%
   N-methylation: 19.71%
   >>D-leucyl: 19.35%
   No-mod: 17.58%
-位置 8:
+Position 8:
   >>DL-lysyl: 27.32%
   >>D-lysyl: 25.43%
   N6-isopropyl modification: 25.28%
   No-mod: 21.96%
-位置 9:
+Position 9:
   >>DL-prolyl: 21.80%
   >>D-prolyl: 21.02%
   >L-proline ethylamide: 20.49%
   alpha-methyl: 18.59%
   No-mod: 18.10%
-位置 10:
+Position 10:
   >>beta-alanyl: 10.94%
   >>DL-alanyl: 10.67%
   3-(2-naphthyl): 10.33%

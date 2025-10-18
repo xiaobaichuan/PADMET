@@ -1,7 +1,6 @@
-
-原始序列: FCFWKTCT
-推荐修饰方案：
-位置 1:
+Native Sequence: FCFWKTCT
+Modification Scheme: 
+Position 1:
   No-mod: 10.43%
   decanoyl: 10.16%
   4-chloro: 9.97%
@@ -13,37 +12,37 @@
   >>DL-phenylalanyl: 8.48%
   acetyl: 8.25%
   4-fluorobenzoyl: 8.00%
-位置 2:
+Position 2:
   No-mod: 36.21%
   >>DL-cysteinyl: 33.23%
   >>D-cysteinyl: 30.56%
-位置 3:
+Position 3:
   No-mod: 19.42%
   >>D-phenylalanyl: 17.28%
   4-chloro: 17.26%
   >>DL-phenylalanyl: 15.73%
   4-ureido: 15.66%
   4-((S)-dihydroorotamido): 14.65%
-位置 4:
+Position 4:
   No-mod: 40.58%
   >>DL-tryptophanyl: 30.85%
   >>D-tryptophanyl: 28.57%
-位置 5:
+Position 5:
   No-mod: 30.47%
   >>D-lysyl: 25.30%
   >>DL-lysyl: 24.25%
   N6-isopropyl modification: 19.98%
-位置 6:
+Position 6:
   No-mod: 24.85%
   >L-threoninol: 21.60%
   >>DL-valyl: 20.24%
   >>D-threonyl: 17.04%
   >>DL-threonyl: 16.27%
-位置 7:
+Position 7:
   No-mod: 34.98%
   >>DL-cysteinyl: 33.52%
   >>D-cysteinyl: 31.50%
-位置 8:
+Position 8:
   No-mod: 19.44%
   >L-threoninol: 17.66%
   >L-threoninamide: 17.14%

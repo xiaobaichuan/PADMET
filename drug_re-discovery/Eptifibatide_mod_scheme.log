@@ -1,7 +1,6 @@
-
-原始序列: CRGDWPC
-推荐修饰方案：
-位置 1:
+Native Sequence: CRGDWPC
+Modification Scheme: 
+Position 1:
   acetyl: 14.98%
   formyl: 14.08%
   decanoyl: 13.92%
@@ -10,7 +9,7 @@
   deamino: 10.82%
   No-mod: 10.33%
   >>D-cysteinyl: 9.92%
-位置 2:
+Position 2:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 17.71%
   >>DL-arginyl: 16.37%
   >homoarginyl: 14.99%
@@ -18,23 +17,23 @@
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 12.48%
   >L-argininamide: 12.43%
   No-mod: 12.20%
-位置 3:
+Position 3:
   No-mod: 100.00%
-位置 4:
+Position 4:
   >>D-alpha-aspartyl: 37.16%
   >>DL-alpha-aspartyl: 32.75%
   No-mod: 30.09%
-位置 5:
+Position 5:
   >>DL-tryptophanyl: 36.37%
   >>D-tryptophanyl: 35.47%
   No-mod: 28.16%
-位置 6:
+Position 6:
   >L-proline ethylamide: 21.38%
   alpha-methyl: 20.72%
   No-mod: 19.99%
   >>DL-prolyl: 19.25%
   >>D-prolyl: 18.65%
-位置 7:
+Position 7:
   >>DL-cysteinyl: 27.34%
   >L-cysteinamide: 25.18%
   No-mod: 24.52%

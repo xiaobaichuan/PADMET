@@ -1,7 +1,6 @@
-
-原始序列: AAACPSYCLRPA
-推荐修饰方案：
-位置 1:
+Native Sequence: AAACPSYCLRPA
+Modification Scheme: 
+Position 1:
   formyl: 8.47%
   thienyl: 8.16%
   4-fluorobenzoyl: 8.08%
@@ -16,7 +15,7 @@
   3-(2-naphthyl): 6.56%
   >>beta-alanyl: 6.53%
   3-(3-pyridyl) modification: 6.39%
-位置 2:
+Position 2:
   thienyl: 13.85%
   No-mod: 11.91%
   alpha-methyl: 11.49%
@@ -26,7 +25,7 @@
   >>beta-alanyl: 10.22%
   3-(2-naphthyl): 9.95%
   3-(3-pyridyl) modification: 9.81%
-位置 3:
+Position 3:
   thienyl: 13.43%
   No-mod: 12.21%
   Boc: 11.59%
@@ -36,38 +35,38 @@
   >>beta-alanyl: 10.17%
   3-(2-naphthyl): 10.01%
   3-(3-pyridyl) modification: 9.41%
-位置 4:
+Position 4:
   >>DL-cysteinyl: 36.41%
   No-mod: 34.72%
   >>D-cysteinyl: 28.87%
-位置 5:
+Position 5:
   >>DL-prolyl: 21.30%
   No-mod: 20.21%
   >L-proline ethylamide: 20.20%
   >>D-prolyl: 19.99%
   alpha-methyl: 18.30%
-位置 6:
+Position 6:
   >>D-seryl: 24.81%
   No-mod: 21.95%
   >L-prolinehydrazide: 19.24%
   >>DL-seryl: 18.16%
   O-tert-butyl: 15.84%
-位置 7:
+Position 7:
   >>D-tyrosyl: 28.78%
   No-mod: 25.05%
   N-methylation: 23.13%
   >>DL-tyrosyl: 23.03%
-位置 8:
+Position 8:
   >>DL-cysteinyl: 36.44%
   No-mod: 34.80%
   >>D-cysteinyl: 28.77%
-位置 9:
+Position 9:
   No-mod: 21.74%
   N-methylation: 20.06%
   >L-norleucyl: 19.96%
   >>D-leucyl: 19.75%
   >>DL-leucyl: 18.48%
-位置 10:
+Position 10:
   >L-argininamide: 16.64%
   No-mod: 15.45%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.88%
@@ -75,13 +74,13 @@
   >homoarginyl: 14.36%
   >>D-arginyl: 14.02%
   >>DL-arginyl: 10.07%
-位置 11:
+Position 11:
   >>DL-prolyl: 21.50%
   >>D-prolyl: 21.08%
   No-mod: 20.49%
   >L-proline ethylamide: 18.81%
   alpha-methyl: 18.12%
-位置 12:
+Position 12:
   No-mod: 10.91%
   thienyl: 10.52%
   Boc: 10.28%

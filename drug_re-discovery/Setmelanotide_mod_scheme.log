@@ -1,7 +1,6 @@
-
-原始序列: RCAHFRWC
-推荐修饰方案：
-位置 1:
+Native Sequence: RCAHFRWC
+Modification Scheme: 
+Position 1:
   decanoyl: 9.27%
   deamino: 9.15%
   No-mod: 9.09%
@@ -14,11 +13,11 @@
   4-fluorobenzoyl: 7.61%
   >L-argininamide: 7.46%
   >>D-arginyl: 6.73%
-位置 2:
+Position 2:
   No-mod: 36.25%
   >>D-cysteinyl: 35.82%
   >>DL-cysteinyl: 27.94%
-位置 3:
+Position 3:
   3-(3-pyridyl) modification: 14.24%
   >>DL-alanyl: 12.67%
   No-mod: 11.76%
@@ -28,19 +27,19 @@
   >>beta-alanyl: 10.06%
   thienyl: 10.06%
   alpha-methyl: 9.86%
-位置 4:
+Position 4:
   No-mod: 28.79%
   1-benzyl: 24.18%
   >>DL-histidyl: 23.60%
   >>D-histidyl: 23.44%
-位置 5:
+Position 5:
   >>DL-phenylalanyl: 21.54%
   No-mod: 19.16%
   >>D-phenylalanyl: 17.70%
   4-chloro: 15.50%
   4-((S)-dihydroorotamido): 13.25%
   4-ureido: 12.85%
-位置 6:
+Position 6:
   No-mod: 17.12%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 16.04%
   >>DL-arginyl: 15.70%
@@ -48,11 +47,11 @@
   >L-argininamide: 12.98%
   >homoarginyl: 12.77%
   >>D-arginyl: 11.54%
-位置 7:
+Position 7:
   No-mod: 35.29%
   >>D-tryptophanyl: 32.69%
   >>DL-tryptophanyl: 32.02%
-位置 8:
+Position 8:
   No-mod: 27.47%
   >>D-cysteinyl: 25.72%
   >L-cysteinamide: 24.97%

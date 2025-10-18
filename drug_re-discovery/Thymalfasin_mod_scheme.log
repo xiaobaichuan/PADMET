@@ -1,7 +1,6 @@
-
-原始序列: SDAAVDTSSEITTKDLKEKKEVVEEAEN
-推荐修饰方案：
-位置 1:
+Native Sequence: SDAAVDTSSEITTKDLKEKKEVVEEAEN
+Modification Scheme: 
+Position 1:
   >>D-seryl: 11.10%
   formyl: 10.33%
   O-tert-butyl: 10.25%
@@ -12,11 +11,11 @@
   decanoyl: 9.86%
   No-mod: 9.52%
   >>DL-seryl: 8.31%
-位置 2:
+Position 2:
   >>D-alpha-aspartyl: 35.48%
   No-mod: 33.06%
   >>DL-alpha-aspartyl: 31.46%
-位置 3:
+Position 3:
   >>beta-alanyl: 12.27%
   3-(3-pyridyl) modification: 11.75%
   Boc: 11.71%
@@ -26,7 +25,7 @@
   >>DL-alanyl: 10.83%
   No-mod: 10.41%
   alpha-methyl: 9.73%
-位置 4:
+Position 4:
   >>beta-alanyl: 12.32%
   3-(3-pyridyl) modification: 11.72%
   Boc: 11.68%
@@ -36,114 +35,114 @@
   >>DL-alanyl: 10.82%
   No-mod: 10.37%
   alpha-methyl: 9.69%
-位置 5:
+Position 5:
   >>D-valyl: 52.77%
   No-mod: 47.23%
-位置 6:
+Position 6:
   >>D-alpha-aspartyl: 35.41%
   No-mod: 32.92%
   >>DL-alpha-aspartyl: 31.66%
-位置 7:
+Position 7:
   >>DL-valyl: 21.53%
   >>D-threonyl: 20.84%
   >>DL-threonyl: 19.44%
   >L-threoninol: 19.12%
   No-mod: 19.06%
-位置 8:
+Position 8:
   >>D-seryl: 21.94%
   O-tert-butyl: 20.82%
   >L-prolinehydrazide: 20.56%
   No-mod: 19.31%
   >>DL-seryl: 17.38%
-位置 9:
+Position 9:
   >>D-seryl: 21.96%
   O-tert-butyl: 20.87%
   >L-prolinehydrazide: 20.49%
   No-mod: 19.27%
   >>DL-seryl: 17.41%
-位置 10:
+Position 10:
   >>L-gamma-glutamyl: 21.64%
   >>DL-alpha-glutamyl: 21.17%
   >>D-alpha-glutamyl: 20.02%
   No-mod: 18.79%
   >pyroglutamic acid: 18.38%
-位置 11:
+Position 11:
   >>DL-isoleucyl: 35.64%
   No-mod: 33.59%
   >>D-isoleucyl: 30.77%
-位置 12:
+Position 12:
   >>D-threonyl: 21.17%
   >>DL-valyl: 21.16%
   >>DL-threonyl: 19.55%
   >L-threoninol: 19.08%
   No-mod: 19.05%
-位置 13:
+Position 13:
   >>DL-valyl: 21.26%
   >>D-threonyl: 21.16%
   >>DL-threonyl: 19.57%
   No-mod: 19.04%
   >L-threoninol: 18.97%
-位置 14:
+Position 14:
   N6-isopropyl modification: 25.89%
   >>DL-lysyl: 25.71%
   No-mod: 24.99%
   >>D-lysyl: 23.41%
-位置 15:
+Position 15:
   >>D-alpha-aspartyl: 35.02%
   No-mod: 32.90%
   >>DL-alpha-aspartyl: 32.08%
-位置 16:
+Position 16:
   >>D-leucyl: 21.09%
   No-mod: 20.47%
   >>DL-leucyl: 19.94%
   >L-norleucyl: 19.86%
   N-methylation: 18.65%
-位置 17:
+Position 17:
   >>DL-lysyl: 26.29%
   N6-isopropyl modification: 25.50%
   No-mod: 24.81%
   >>D-lysyl: 23.39%
-位置 18:
+Position 18:
   >>DL-alpha-glutamyl: 21.51%
   >>L-gamma-glutamyl: 21.45%
   >>D-alpha-glutamyl: 19.90%
   No-mod: 18.67%
   >pyroglutamic acid: 18.46%
-位置 19:
+Position 19:
   >>DL-lysyl: 26.25%
   N6-isopropyl modification: 25.60%
   No-mod: 24.75%
   >>D-lysyl: 23.40%
-位置 20:
+Position 20:
   >>DL-lysyl: 26.11%
   N6-isopropyl modification: 25.65%
   No-mod: 24.71%
   >>D-lysyl: 23.52%
-位置 21:
+Position 21:
   >>L-gamma-glutamyl: 21.68%
   >>DL-alpha-glutamyl: 21.39%
   >>D-alpha-glutamyl: 19.93%
   No-mod: 18.65%
   >pyroglutamic acid: 18.35%
-位置 22:
+Position 22:
   >>D-valyl: 53.29%
   No-mod: 46.71%
-位置 23:
+Position 23:
   >>D-valyl: 53.64%
   No-mod: 46.36%
-位置 24:
+Position 24:
   >>L-gamma-glutamyl: 22.35%
   >>DL-alpha-glutamyl: 21.84%
   >>D-alpha-glutamyl: 19.17%
   >pyroglutamic acid: 18.88%
   No-mod: 17.76%
-位置 25:
+Position 25:
   >>L-gamma-glutamyl: 22.41%
   >>DL-alpha-glutamyl: 21.73%
   >>D-alpha-glutamyl: 19.03%
   >pyroglutamic acid: 18.84%
   No-mod: 17.99%
-位置 26:
+Position 26:
   >>beta-alanyl: 12.40%
   3-(3-pyridyl) modification: 11.92%
   thienyl: 11.67%
@@ -153,13 +152,13 @@
   3-(2-naphthyl): 10.74%
   No-mod: 10.16%
   alpha-methyl: 9.62%
-位置 27:
+Position 27:
   >>L-gamma-glutamyl: 22.22%
   >>DL-alpha-glutamyl: 21.15%
   >>D-alpha-glutamyl: 19.47%
   No-mod: 18.82%
   >pyroglutamic acid: 18.34%
-位置 28:
+Position 28:
   >>DL-asparaginyl: 34.12%
   >>D-asparaginyl: 33.63%
   No-mod: 32.25%

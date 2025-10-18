@@ -1,7 +1,6 @@
-
-原始序列: AWMDF
-推荐修饰方案：
-位置 1:
+Native Sequence: AWMDF
+Modification Scheme: 
+Position 1:
   thienyl: 8.25%
   alpha-methyl: 8.06%
   >>DL-alanyl: 7.43%
@@ -16,19 +15,19 @@
   acetyl: 6.76%
   decanoyl: 6.53%
   >>beta-alanyl: 5.83%
-位置 2:
+Position 2:
   No-mod: 35.25%
   >>D-tryptophanyl: 33.96%
   >>DL-tryptophanyl: 30.78%
-位置 3:
+Position 3:
   >>D-methionyl: 34.60%
   No-mod: 33.74%
   >>DL-methionyl: 31.65%
-位置 4:
+Position 4:
   >>DL-alpha-aspartyl: 38.26%
   No-mod: 34.42%
   >>D-alpha-aspartyl: 27.32%
-位置 5:
+Position 5:
   >>DL-phenylalanyl: 15.84%
   4-ureido: 15.66%
   4-((S)-dihydroorotamido): 14.72%

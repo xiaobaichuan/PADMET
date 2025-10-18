@@ -1,7 +1,6 @@
-
-原始序列: RRPPGASTR
-推荐修饰方案：
-位置 1:
+Native Sequence: RRPPGASTR
+Modification Scheme: 
+Position 1:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 9.63%
   >>D-arginyl: 9.58%
   acetyl: 9.17%
@@ -14,7 +13,7 @@
   deamino: 7.55%
   decanoyl: 7.44%
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 7.22%
-位置 2:
+Position 2:
   >>D-arginyl: 16.35%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 15.94%
   No-mod: 15.60%
@@ -22,21 +21,21 @@
   >>DL-arginyl: 13.34%
   >homoarginyl: 12.39%
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 11.98%
-位置 3:
+Position 3:
   No-mod: 24.55%
   >>DL-prolyl: 22.00%
   >L-proline ethylamide: 19.88%
   >>D-prolyl: 17.11%
   alpha-methyl: 16.46%
-位置 4:
+Position 4:
   No-mod: 24.85%
   >>DL-prolyl: 22.10%
   >L-proline ethylamide: 19.46%
   >>D-prolyl: 17.24%
   alpha-methyl: 16.35%
-位置 5:
+Position 5:
   No-mod: 100.00%
-位置 6:
+Position 6:
   No-mod: 14.23%
   >>beta-alanyl: 13.67%
   >>DL-alanyl: 11.45%
@@ -46,19 +45,19 @@
   3-(3-pyridyl) modification: 10.00%
   alpha-methyl: 9.38%
   thienyl: 9.16%
-位置 7:
+Position 7:
   No-mod: 23.96%
   >L-prolinehydrazide: 21.76%
   O-tert-butyl: 18.52%
   >>DL-seryl: 17.91%
   >>D-seryl: 17.84%
-位置 8:
+Position 8:
   No-mod: 23.56%
   >>DL-threonyl: 19.95%
   >>DL-valyl: 19.24%
   >L-threoninol: 19.04%
   >>D-threonyl: 18.21%
-位置 9:
+Position 9:
   >>D-arginyl: 16.19%
   No-mod: 15.12%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.82%

@@ -1,7 +1,6 @@
-
-原始序列: DRVYIHPF
-推荐修饰方案：
-位置 1:
+Native Sequence: DRVYIHPF
+Modification Scheme: 
+Position 1:
   >>D-alpha-aspartyl: 13.75%
   4-fluorobenzoyl: 13.45%
   >>DL-alpha-aspartyl: 13.23%
@@ -10,7 +9,7 @@
   acetyl: 11.76%
   No-mod: 11.22%
   decanoyl: 10.75%
-位置 2:
+Position 2:
   >>D-arginyl: 16.85%
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.72%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.63%
@@ -18,30 +17,30 @@
   >>DL-arginyl: 13.46%
   No-mod: 13.35%
   >homoarginyl: 13.14%
-位置 3:
+Position 3:
   >>D-valyl: 50.02%
   No-mod: 49.98%
-位置 4:
+Position 4:
   N-methylation: 28.79%
   No-mod: 24.51%
   >>DL-tyrosyl: 23.39%
   >>D-tyrosyl: 23.32%
-位置 5:
+Position 5:
   >>DL-isoleucyl: 35.79%
   >>D-isoleucyl: 34.17%
   No-mod: 30.04%
-位置 6:
+Position 6:
   >>D-histidyl: 27.04%
   >>DL-histidyl: 25.31%
   No-mod: 25.26%
   1-benzyl: 22.39%
-位置 7:
+Position 7:
   >>D-prolyl: 20.95%
   alpha-methyl: 20.18%
   No-mod: 19.82%
   >>DL-prolyl: 19.55%
   >L-proline ethylamide: 19.50%
-位置 8:
+Position 8:
   >>DL-phenylalanyl: 15.34%
   >>D-phenylalanyl: 15.21%
   4-ureido: 14.89%

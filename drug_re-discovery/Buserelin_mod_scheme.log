@@ -1,7 +1,6 @@
-
-原始序列: EHWSYWLRP
-推荐修饰方案：
-位置 1:
+Native Sequence: EHWSYWLRP
+Modification Scheme: 
+Position 1:
   >>D-alpha-glutamyl: 11.15%
   >>L-gamma-glutamyl: 11.13%
   acetyl: 10.87%
@@ -12,37 +11,37 @@
   No-mod: 9.30%
   >>DL-alpha-glutamyl: 9.25%
   deamino: 8.86%
-位置 2:
+Position 2:
   1-benzyl: 26.76%
   >>DL-histidyl: 25.13%
   >>D-histidyl: 24.34%
   No-mod: 23.77%
-位置 3:
+Position 3:
   >>DL-tryptophanyl: 36.46%
   No-mod: 36.33%
   >>D-tryptophanyl: 27.22%
-位置 4:
+Position 4:
   >>DL-seryl: 22.52%
   No-mod: 20.75%
   >>D-seryl: 20.28%
   O-tert-butyl: 19.35%
   >L-prolinehydrazide: 17.10%
-位置 5:
+Position 5:
   >>D-tyrosyl: 28.07%
   N-methylation: 25.97%
   No-mod: 24.06%
   >>DL-tyrosyl: 21.89%
-位置 6:
+Position 6:
   >>DL-tryptophanyl: 36.78%
   No-mod: 36.56%
   >>D-tryptophanyl: 26.66%
-位置 7:
+Position 7:
   >L-norleucyl: 22.76%
   >>DL-leucyl: 20.69%
   N-methylation: 20.14%
   No-mod: 18.77%
   >>D-leucyl: 17.64%
-位置 8:
+Position 8:
   >>DL-arginyl: 15.16%
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.95%
   No-mod: 14.90%
@@ -50,7 +49,7 @@
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 13.61%
   >homoarginyl: 13.49%
   >L-argininamide: 13.35%
-位置 9:
+Position 9:
   >L-prolinamide: 18.01%
   >>D-prolyl: 17.62%
   >L-proline ethylamide: 16.53%

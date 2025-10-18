@@ -1,7 +1,6 @@
-
-原始序列: EHWSYHLRP
-推荐修饰方案：
-位置 1:
+Native Sequence: EHWSYHLRP
+Modification Scheme: 
+Position 1:
   deamino: 12.11%
   >pyroglutamic acid: 11.28%
   No-mod: 11.12%
@@ -12,38 +11,38 @@
   >>DL-alpha-glutamyl: 8.79%
   >>L-gamma-glutamyl: 8.73%
   formyl: 8.57%
-位置 2:
+Position 2:
   No-mod: 27.37%
   >>DL-histidyl: 25.44%
   >>D-histidyl: 25.20%
   1-benzyl: 21.99%
-位置 3:
+Position 3:
   No-mod: 35.40%
   >>DL-tryptophanyl: 33.36%
   >>D-tryptophanyl: 31.24%
-位置 4:
+Position 4:
   >>DL-seryl: 23.78%
   No-mod: 21.64%
   >L-prolinehydrazide: 18.66%
   O-tert-butyl: 18.04%
   >>D-seryl: 17.87%
-位置 5:
+Position 5:
   No-mod: 26.52%
   >>D-tyrosyl: 25.97%
   >>DL-tyrosyl: 24.95%
   N-methylation: 22.57%
-位置 6:
+Position 6:
   No-mod: 26.94%
   >>DL-histidyl: 26.66%
   >>D-histidyl: 25.04%
   1-benzyl: 21.37%
-位置 7:
+Position 7:
   >>DL-leucyl: 22.09%
   No-mod: 21.33%
   >L-norleucyl: 19.87%
   >>D-leucyl: 18.64%
   N-methylation: 18.07%
-位置 8:
+Position 8:
   >>DL-arginyl: 15.20%
   No-mod: 14.47%
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.27%
@@ -51,7 +50,7 @@
   >>D-arginyl: 14.15%
   (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.02%
   >homoarginyl: 13.71%
-位置 9:
+Position 9:
   No-mod: 17.60%
   >>DL-prolyl: 17.31%
   >>D-prolyl: 17.12%

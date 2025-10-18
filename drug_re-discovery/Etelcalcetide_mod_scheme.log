@@ -1,7 +1,6 @@
-
-原始序列: CARRRAR
-推荐修饰方案：
-位置 1:
+Native Sequence: CARRRAR
+Modification Scheme: 
+Position 1:
   >>D-cysteinyl: 14.91%
   deamino: 13.64%
   >>DL-cysteinyl: 13.16%
@@ -10,7 +9,7 @@
   decanoyl: 11.46%
   formyl: 11.30%
   No-mod: 10.97%
-位置 2:
+Position 2:
   thienyl: 15.14%
   3-(2-naphthyl): 11.80%
   >>D-alanyl: 11.42%
@@ -20,7 +19,7 @@
   alpha-methyl: 10.10%
   No-mod: 9.52%
   >>beta-alanyl: 8.99%
-位置 3:
+Position 3:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.43%
   >>DL-arginyl: 16.96%
   >homoarginyl: 14.38%
@@ -28,7 +27,7 @@
   >>D-arginyl: 12.87%
   >L-argininamide: 12.06%
   No-mod: 11.33%
-位置 4:
+Position 4:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.95%
   >>DL-arginyl: 16.85%
   >homoarginyl: 14.50%
@@ -36,7 +35,7 @@
   >>D-arginyl: 12.84%
   >L-argininamide: 11.87%
   No-mod: 11.08%
-位置 5:
+Position 5:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.99%
   >>DL-arginyl: 16.82%
   >homoarginyl: 14.53%
@@ -44,7 +43,7 @@
   >>D-arginyl: 12.88%
   >L-argininamide: 12.03%
   No-mod: 11.02%
-位置 6:
+Position 6:
   thienyl: 15.70%
   3-(2-naphthyl): 12.27%
   >>D-alanyl: 12.15%
@@ -54,7 +53,7 @@
   No-mod: 9.37%
   alpha-methyl: 9.11%
   >>beta-alanyl: 8.17%
-位置 7:
+Position 7:
   (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 19.22%
   >>DL-arginyl: 15.60%
   >homoarginyl: 14.53%

@@ -1,7 +1,6 @@
-
-原始序列: CFFQNCPKG
-推荐修饰方案：
-位置 1:
+Native Sequence: CFFQNCPKG
+Modification Scheme: 
+Position 1:
   decanoyl: 13.99%
   >>D-cysteinyl: 13.64%
   >>DL-cysteinyl: 13.63%
@@ -10,44 +9,44 @@
   4-fluorobenzoyl: 11.81%
   deamino: 11.27%
   No-mod: 10.77%
-位置 2:
+Position 2:
   >>DL-phenylalanyl: 18.10%
   4-((S)-dihydroorotamido): 17.55%
   4-chloro: 17.54%
   >>D-phenylalanyl: 16.20%
   No-mod: 15.86%
   4-ureido: 14.75%
-位置 3:
+Position 3:
   >>DL-phenylalanyl: 18.42%
   4-chloro: 18.03%
   4-((S)-dihydroorotamido): 17.83%
   No-mod: 16.37%
   >>D-phenylalanyl: 15.28%
   4-ureido: 14.07%
-位置 4:
+Position 4:
   No-mod: 34.70%
   >>DL-glutaminyl: 32.71%
   >pyroglutamic acid: 32.59%
-位置 5:
+Position 5:
   >>DL-asparaginyl: 35.72%
   >>D-asparaginyl: 33.19%
   No-mod: 31.09%
-位置 6:
+Position 6:
   >>D-cysteinyl: 36.48%
   >>DL-cysteinyl: 35.54%
   No-mod: 27.98%
-位置 7:
+Position 7:
   >>DL-prolyl: 27.16%
   >>D-prolyl: 22.49%
   No-mod: 19.26%
   >L-proline ethylamide: 17.37%
   alpha-methyl: 13.72%
-位置 8:
+Position 8:
   >>DL-lysyl: 28.09%
   No-mod: 26.84%
   N6-isopropyl modification: 23.27%
   >>D-lysyl: 21.79%
-位置 9:
+Position 9:
   >glycinamide: 34.01%
   >glycinol: 33.51%
   No-mod: 32.48%

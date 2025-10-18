@@ -1,7 +1,6 @@
-
-原始序列: AAWFK
-推荐修饰方案：
-位置 1:
+Native Sequence: AAWFK
+Modification Scheme: 
+Position 1:
   >>DL-alanyl: 9.13%
   3-(2-naphthyl): 8.27%
   >>beta-alanyl: 7.86%
@@ -16,7 +15,7 @@
   4-fluorobenzoyl: 6.37%
   alpha-methyl: 6.09%
   deamino: 5.70%
-位置 2:
+Position 2:
   >>DL-alanyl: 15.33%
   3-(2-naphthyl): 11.88%
   >>beta-alanyl: 11.81%
@@ -26,18 +25,18 @@
   No-mod: 9.95%
   >>D-alanyl: 9.95%
   alpha-methyl: 8.71%
-位置 3:
+Position 3:
   No-mod: 40.64%
   >>DL-tryptophanyl: 36.03%
   >>D-tryptophanyl: 23.33%
-位置 4:
+Position 4:
   >>DL-phenylalanyl: 22.98%
   >>D-phenylalanyl: 17.45%
   4-ureido: 16.63%
   No-mod: 15.21%
   4-((S)-dihydroorotamido): 14.62%
   4-chloro: 13.10%
-位置 5:
+Position 5:
   >>D-lysyl: 24.95%
   >>DL-lysyl: 22.80%
   >L-lysinamide: 20.60%

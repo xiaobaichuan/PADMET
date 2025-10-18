@@ -1,20 +1,19 @@
-
-原始序列: GPE
-推荐修饰方案：
-位置 1:
+Native Sequence: GPE
+Modification Scheme: 
+Position 1:
   decanoyl: 17.11%
   4-fluorobenzoyl: 16.99%
   deamino: 16.80%
   No-mod: 16.64%
   formyl: 16.47%
   acetyl: 15.99%
-位置 2:
+Position 2:
   No-mod: 20.76%
   >>D-prolyl: 20.68%
   >>DL-prolyl: 20.44%
   alpha-methyl: 20.32%
   >L-proline ethylamide: 17.80%
-位置 3:
+Position 3:
   No-mod: 21.60%
   >>DL-alpha-glutamyl: 21.57%
   >>L-gamma-glutamyl: 20.69%
