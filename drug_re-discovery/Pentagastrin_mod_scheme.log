@@ -1,0 +1,38 @@
+
+原始序列: AWMDF
+推荐修饰方案：
+位置 1:
+  thienyl: 8.25%
+  alpha-methyl: 8.06%
+  >>DL-alanyl: 7.43%
+  4-fluorobenzoyl: 7.42%
+  3-(3-pyridyl) modification: 7.37%
+  Boc: 7.36%
+  >>D-alanyl: 7.20%
+  deamino: 6.98%
+  No-mod: 6.96%
+  formyl: 6.94%
+  3-(2-naphthyl): 6.91%
+  acetyl: 6.76%
+  decanoyl: 6.53%
+  >>beta-alanyl: 5.83%
+位置 2:
+  No-mod: 35.25%
+  >>D-tryptophanyl: 33.96%
+  >>DL-tryptophanyl: 30.78%
+位置 3:
+  >>D-methionyl: 34.60%
+  No-mod: 33.74%
+  >>DL-methionyl: 31.65%
+位置 4:
+  >>DL-alpha-aspartyl: 38.26%
+  No-mod: 34.42%
+  >>D-alpha-aspartyl: 27.32%
+位置 5:
+  >>DL-phenylalanyl: 15.84%
+  4-ureido: 15.66%
+  4-((S)-dihydroorotamido): 14.72%
+  >>D-phenylalanyl: 14.60%
+  No-mod: 13.86%
+  4-chloro: 12.67%
+  >phenylalaninamide: 12.65%

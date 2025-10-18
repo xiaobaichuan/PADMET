@@ -1,0 +1,158 @@
+
+原始序列: SLRRSSCFGGRMDRIGAQSGLGCNSFRY
+推荐修饰方案：
+位置 1:
+  O-tert-butyl: 10.96%
+  decanoyl: 10.70%
+  >L-prolinehydrazide: 10.60%
+  formyl: 10.40%
+  >>D-seryl: 10.25%
+  >>DL-seryl: 9.74%
+  4-fluorobenzoyl: 9.62%
+  acetyl: 9.53%
+  No-mod: 9.43%
+  deamino: 8.77%
+位置 2:
+  No-mod: 20.53%
+  N-methylation: 20.45%
+  >>D-leucyl: 20.02%
+  >L-norleucyl: 19.52%
+  >>DL-leucyl: 19.47%
+位置 3:
+  >>DL-arginyl: 17.22%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.88%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.67%
+  >L-argininamide: 14.55%
+  No-mod: 13.76%
+  >>D-arginyl: 12.61%
+  >homoarginyl: 12.32%
+位置 4:
+  >>DL-arginyl: 17.55%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.85%
+  >L-argininamide: 14.71%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.53%
+  No-mod: 13.71%
+  >>D-arginyl: 12.50%
+  >homoarginyl: 12.15%
+位置 5:
+  O-tert-butyl: 22.01%
+  >L-prolinehydrazide: 20.69%
+  >>D-seryl: 20.42%
+  No-mod: 19.09%
+  >>DL-seryl: 17.79%
+位置 6:
+  O-tert-butyl: 22.04%
+  >L-prolinehydrazide: 20.67%
+  >>D-seryl: 20.43%
+  No-mod: 19.18%
+  >>DL-seryl: 17.68%
+位置 7:
+  No-mod: 35.91%
+  >>D-cysteinyl: 33.10%
+  >>DL-cysteinyl: 30.99%
+位置 8:
+  4-((S)-dihydroorotamido): 18.24%
+  4-ureido: 18.08%
+  No-mod: 17.66%
+  4-chloro: 15.52%
+  >>DL-phenylalanyl: 15.28%
+  >>D-phenylalanyl: 15.21%
+位置 9:
+  No-mod: 100.00%
+位置 10:
+  No-mod: 100.00%
+位置 11:
+  >>DL-arginyl: 17.00%
+  >L-argininamide: 14.84%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.80%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.46%
+  No-mod: 13.77%
+  >>D-arginyl: 12.66%
+  >homoarginyl: 12.48%
+位置 12:
+  No-mod: 34.85%
+  >>D-methionyl: 34.00%
+  >>DL-methionyl: 31.15%
+位置 13:
+  >>DL-alpha-aspartyl: 37.99%
+  No-mod: 32.44%
+  >>D-alpha-aspartyl: 29.57%
+位置 14:
+  >>DL-arginyl: 16.66%
+  >L-argininamide: 14.84%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.70%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.57%
+  No-mod: 13.69%
+  >>D-arginyl: 12.86%
+  >homoarginyl: 12.68%
+位置 15:
+  >>D-isoleucyl: 33.99%
+  No-mod: 33.13%
+  >>DL-isoleucyl: 32.88%
+位置 16:
+  No-mod: 100.00%
+位置 17:
+  >>DL-alanyl: 13.04%
+  3-(2-naphthyl): 12.60%
+  No-mod: 11.83%
+  >>beta-alanyl: 11.50%
+  Boc: 10.79%
+  3-(3-pyridyl) modification: 10.59%
+  thienyl: 10.42%
+  >>D-alanyl: 9.83%
+  alpha-methyl: 9.39%
+位置 18:
+  No-mod: 34.02%
+  >pyroglutamic acid: 33.85%
+  >>DL-glutaminyl: 32.13%
+位置 19:
+  O-tert-butyl: 22.00%
+  >L-prolinehydrazide: 20.52%
+  >>D-seryl: 19.89%
+  No-mod: 19.15%
+  >>DL-seryl: 18.45%
+位置 20:
+  No-mod: 100.00%
+位置 21:
+  No-mod: 20.88%
+  >>D-leucyl: 19.92%
+  N-methylation: 19.88%
+  >>DL-leucyl: 19.86%
+  >L-norleucyl: 19.46%
+位置 22:
+  No-mod: 100.00%
+位置 23:
+  No-mod: 35.73%
+  >>D-cysteinyl: 32.75%
+  >>DL-cysteinyl: 31.52%
+位置 24:
+  >>DL-asparaginyl: 35.46%
+  No-mod: 33.39%
+  >>D-asparaginyl: 31.15%
+位置 25:
+  O-tert-butyl: 21.82%
+  >L-prolinehydrazide: 20.68%
+  >>D-seryl: 20.06%
+  No-mod: 19.12%
+  >>DL-seryl: 18.32%
+位置 26:
+  4-((S)-dihydroorotamido): 18.39%
+  4-ureido: 17.66%
+  No-mod: 17.07%
+  4-chloro: 15.72%
+  >>DL-phenylalanyl: 15.70%
+  >>D-phenylalanyl: 15.45%
+位置 27:
+  >>DL-arginyl: 15.55%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.99%
+  >L-argininamide: 14.95%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.48%
+  >>D-arginyl: 13.36%
+  No-mod: 13.35%
+  >homoarginyl: 13.32%
+位置 28:
+  >L-tyrosinamide: 22.89%
+  >>D-tyrosyl: 20.55%
+  >>DL-tyrosyl: 19.50%
+  No-mod: 18.64%
+  N-methylation: 18.42%

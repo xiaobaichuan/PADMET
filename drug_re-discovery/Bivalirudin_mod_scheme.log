@@ -1,0 +1,105 @@
+
+原始序列: FPRPGGGGNGDFEEIPEEYL
+推荐修饰方案：
+位置 1:
+  No-mod: 11.80%
+  >>DL-phenylalanyl: 11.08%
+  4-chloro: 9.88%
+  >>D-phenylalanyl: 9.27%
+  acetyl: 9.18%
+  deamino: 9.14%
+  formyl: 8.44%
+  4-((S)-dihydroorotamido): 8.29%
+  decanoyl: 8.24%
+  4-ureido: 8.01%
+  4-fluorobenzoyl: 6.68%
+位置 2:
+  No-mod: 27.78%
+  >>DL-prolyl: 24.41%
+  >>D-prolyl: 18.83%
+  >L-proline ethylamide: 15.04%
+  alpha-methyl: 13.94%
+位置 3:
+  No-mod: 18.39%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 17.89%
+  >>DL-arginyl: 16.21%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 15.56%
+  >>D-arginyl: 12.55%
+  >L-argininamide: 10.29%
+  >homoarginyl: 9.11%
+位置 4:
+  No-mod: 27.11%
+  >>DL-prolyl: 24.10%
+  >>D-prolyl: 20.28%
+  >L-proline ethylamide: 14.63%
+  alpha-methyl: 13.87%
+位置 5:
+  No-mod: 100.00%
+位置 6:
+  No-mod: 100.00%
+位置 7:
+  No-mod: 100.00%
+位置 8:
+  No-mod: 100.00%
+位置 9:
+  No-mod: 39.29%
+  >>DL-asparaginyl: 35.30%
+  >>D-asparaginyl: 25.41%
+位置 10:
+  No-mod: 100.00%
+位置 11:
+  No-mod: 41.64%
+  >>D-alpha-aspartyl: 38.56%
+  >>DL-alpha-aspartyl: 19.80%
+位置 12:
+  No-mod: 21.44%
+  4-chloro: 20.28%
+  >>DL-phenylalanyl: 18.73%
+  >>D-phenylalanyl: 15.06%
+  4-((S)-dihydroorotamido): 12.43%
+  4-ureido: 12.05%
+位置 13:
+  No-mod: 27.53%
+  >>D-alpha-glutamyl: 24.65%
+  >pyroglutamic acid: 20.51%
+  >>L-gamma-glutamyl: 13.79%
+  >>DL-alpha-glutamyl: 13.52%
+位置 14:
+  No-mod: 27.53%
+  >>D-alpha-glutamyl: 24.65%
+  >pyroglutamic acid: 20.51%
+  >>L-gamma-glutamyl: 13.80%
+  >>DL-alpha-glutamyl: 13.52%
+位置 15:
+  No-mod: 42.85%
+  >>D-isoleucyl: 36.87%
+  >>DL-isoleucyl: 20.28%
+位置 16:
+  No-mod: 26.88%
+  >>DL-prolyl: 24.06%
+  >>D-prolyl: 20.45%
+  >L-proline ethylamide: 14.68%
+  alpha-methyl: 13.93%
+位置 17:
+  No-mod: 27.35%
+  >>D-alpha-glutamyl: 24.62%
+  >pyroglutamic acid: 20.46%
+  >>L-gamma-glutamyl: 13.93%
+  >>DL-alpha-glutamyl: 13.64%
+位置 18:
+  No-mod: 26.03%
+  >>D-alpha-glutamyl: 24.49%
+  >pyroglutamic acid: 20.37%
+  >>L-gamma-glutamyl: 14.70%
+  >>DL-alpha-glutamyl: 14.40%
+位置 19:
+  N-methylation: 34.34%
+  No-mod: 28.63%
+  >>D-tyrosyl: 20.14%
+  >>DL-tyrosyl: 16.89%
+位置 20:
+  N-methylation: 26.06%
+  >>DL-leucyl: 20.73%
+  No-mod: 20.10%
+  >L-norleucyl: 17.98%
+  >>D-leucyl: 15.13%

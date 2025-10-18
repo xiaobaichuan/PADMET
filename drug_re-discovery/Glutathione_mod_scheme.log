@@ -1,0 +1,22 @@
+
+原始序列: ECG
+推荐修饰方案：
+位置 1:
+  >pyroglutamic acid: 11.51%
+  decanoyl: 11.15%
+  >>D-alpha-glutamyl: 11.12%
+  >>L-gamma-glutamyl: 10.87%
+  No-mod: 9.57%
+  4-fluorobenzoyl: 9.45%
+  deamino: 9.26%
+  formyl: 9.06%
+  >>DL-alpha-glutamyl: 9.02%
+  acetyl: 8.98%
+位置 2:
+  >>DL-cysteinyl: 37.28%
+  >>D-cysteinyl: 31.75%
+  No-mod: 30.97%
+位置 3:
+  No-mod: 34.26%
+  >glycinol: 33.86%
+  >glycinamide: 31.87%

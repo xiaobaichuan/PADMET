@@ -1,0 +1,50 @@
+
+原始序列: ACYWKVCT
+推荐修饰方案：
+位置 1:
+  4-fluorobenzoyl: 9.29%
+  Boc: 8.47%
+  thienyl: 8.15%
+  decanoyl: 7.52%
+  >>beta-alanyl: 7.31%
+  >>D-alanyl: 7.26%
+  >>DL-alanyl: 6.99%
+  formyl: 6.77%
+  No-mod: 6.72%
+  3-(3-pyridyl) modification: 6.50%
+  alpha-methyl: 6.47%
+  3-(2-naphthyl): 6.46%
+  deamino: 6.29%
+  acetyl: 5.80%
+位置 2:
+  >>DL-cysteinyl: 44.27%
+  No-mod: 30.19%
+  >>D-cysteinyl: 25.54%
+位置 3:
+  N-methylation: 29.74%
+  No-mod: 26.31%
+  >>D-tyrosyl: 24.17%
+  >>DL-tyrosyl: 19.78%
+位置 4:
+  >>D-tryptophanyl: 41.50%
+  No-mod: 29.47%
+  >>DL-tryptophanyl: 29.03%
+位置 5:
+  >>D-lysyl: 28.56%
+  >>DL-lysyl: 27.90%
+  N6-isopropyl modification: 23.91%
+  No-mod: 19.62%
+位置 6:
+  >>D-valyl: 53.19%
+  No-mod: 46.81%
+位置 7:
+  >>DL-cysteinyl: 41.84%
+  No-mod: 29.55%
+  >>D-cysteinyl: 28.61%
+位置 8:
+  >L-threoninol: 19.19%
+  >>D-threonyl: 17.03%
+  >>DL-threonyl: 16.98%
+  >>DL-valyl: 16.09%
+  No-mod: 16.09%
+  >L-threoninamide: 14.61%

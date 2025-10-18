@@ -1,0 +1,49 @@
+
+原始序列: CYIQNCPLG
+推荐修饰方案：
+位置 1:
+  acetyl: 16.31%
+  deamino: 14.24%
+  >>DL-cysteinyl: 12.75%
+  4-fluorobenzoyl: 12.70%
+  No-mod: 11.46%
+  formyl: 11.03%
+  decanoyl: 10.95%
+  >>D-cysteinyl: 10.57%
+位置 2:
+  >>D-tyrosyl: 27.97%
+  >>DL-tyrosyl: 26.52%
+  No-mod: 24.37%
+  N-methylation: 21.15%
+位置 3:
+  >>D-isoleucyl: 33.95%
+  No-mod: 33.63%
+  >>DL-isoleucyl: 32.42%
+位置 4:
+  >pyroglutamic acid: 35.24%
+  No-mod: 33.05%
+  >>DL-glutaminyl: 31.71%
+位置 5:
+  >>D-asparaginyl: 37.78%
+  No-mod: 35.67%
+  >>DL-asparaginyl: 26.55%
+位置 6:
+  No-mod: 35.34%
+  >>DL-cysteinyl: 32.60%
+  >>D-cysteinyl: 32.07%
+位置 7:
+  >>DL-prolyl: 21.07%
+  No-mod: 20.66%
+  alpha-methyl: 20.28%
+  >L-proline ethylamide: 19.12%
+  >>D-prolyl: 18.87%
+位置 8:
+  No-mod: 21.93%
+  >>D-leucyl: 21.48%
+  >>DL-leucyl: 20.07%
+  N-methylation: 19.87%
+  >L-norleucyl: 16.65%
+位置 9:
+  No-mod: 36.39%
+  >glycinamide: 33.57%
+  >glycinol: 30.04%

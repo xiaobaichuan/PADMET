@@ -1,0 +1,64 @@
+
+原始序列: CARRRAR
+推荐修饰方案：
+位置 1:
+  >>D-cysteinyl: 14.91%
+  deamino: 13.64%
+  >>DL-cysteinyl: 13.16%
+  4-fluorobenzoyl: 12.52%
+  acetyl: 12.04%
+  decanoyl: 11.46%
+  formyl: 11.30%
+  No-mod: 10.97%
+位置 2:
+  thienyl: 15.14%
+  3-(2-naphthyl): 11.80%
+  >>D-alanyl: 11.42%
+  Boc: 11.39%
+  3-(3-pyridyl) modification: 11.19%
+  >>DL-alanyl: 10.45%
+  alpha-methyl: 10.10%
+  No-mod: 9.52%
+  >>beta-alanyl: 8.99%
+位置 3:
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.43%
+  >>DL-arginyl: 16.96%
+  >homoarginyl: 14.38%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 13.97%
+  >>D-arginyl: 12.87%
+  >L-argininamide: 12.06%
+  No-mod: 11.33%
+位置 4:
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.95%
+  >>DL-arginyl: 16.85%
+  >homoarginyl: 14.50%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 13.91%
+  >>D-arginyl: 12.84%
+  >L-argininamide: 11.87%
+  No-mod: 11.08%
+位置 5:
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 18.99%
+  >>DL-arginyl: 16.82%
+  >homoarginyl: 14.53%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 13.73%
+  >>D-arginyl: 12.88%
+  >L-argininamide: 12.03%
+  No-mod: 11.02%
+位置 6:
+  thienyl: 15.70%
+  3-(2-naphthyl): 12.27%
+  >>D-alanyl: 12.15%
+  3-(3-pyridyl) modification: 11.75%
+  >>DL-alanyl: 11.00%
+  Boc: 10.48%
+  No-mod: 9.37%
+  alpha-methyl: 9.11%
+  >>beta-alanyl: 8.17%
+位置 7:
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 19.22%
+  >>DL-arginyl: 15.60%
+  >homoarginyl: 14.53%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.26%
+  No-mod: 13.16%
+  >L-argininamide: 11.70%
+  >>D-arginyl: 11.53%

@@ -1,0 +1,172 @@
+
+原始序列: CSNLSTCVLGKLSQELHKLQTYPRTNTGSGTP
+推荐修饰方案：
+位置 1:
+  No-mod: 13.99%
+  acetyl: 13.82%
+  >>D-cysteinyl: 13.04%
+  decanoyl: 12.88%
+  >>DL-cysteinyl: 12.21%
+  deamino: 11.79%
+  4-fluorobenzoyl: 11.35%
+  formyl: 10.93%
+位置 2:
+  No-mod: 22.58%
+  >L-prolinehydrazide: 21.07%
+  >>D-seryl: 20.14%
+  >>DL-seryl: 18.76%
+  O-tert-butyl: 17.45%
+位置 3:
+  No-mod: 38.98%
+  >>D-asparaginyl: 31.90%
+  >>DL-asparaginyl: 29.12%
+位置 4:
+  No-mod: 23.59%
+  >>DL-leucyl: 22.39%
+  >L-norleucyl: 18.79%
+  N-methylation: 18.54%
+  >>D-leucyl: 16.69%
+位置 5:
+  No-mod: 23.05%
+  >L-prolinehydrazide: 20.44%
+  >>D-seryl: 20.05%
+  >>DL-seryl: 18.84%
+  O-tert-butyl: 17.63%
+位置 6:
+  No-mod: 23.34%
+  >L-threoninol: 20.43%
+  >>DL-threonyl: 19.03%
+  >>D-threonyl: 18.71%
+  >>DL-valyl: 18.48%
+位置 7:
+  No-mod: 35.47%
+  >>D-cysteinyl: 34.41%
+  >>DL-cysteinyl: 30.12%
+位置 8:
+  No-mod: 59.67%
+  >>D-valyl: 40.33%
+位置 9:
+  >>DL-leucyl: 23.92%
+  No-mod: 23.44%
+  >L-norleucyl: 18.65%
+  N-methylation: 18.50%
+  >>D-leucyl: 15.49%
+位置 10:
+  No-mod: 100.00%
+位置 11:
+  >>DL-lysyl: 27.00%
+  No-mod: 26.68%
+  >>D-lysyl: 25.93%
+  N6-isopropyl modification: 20.39%
+位置 12:
+  >>DL-leucyl: 23.75%
+  No-mod: 23.73%
+  N-methylation: 18.62%
+  >L-norleucyl: 18.27%
+  >>D-leucyl: 15.63%
+位置 13:
+  No-mod: 23.28%
+  >L-prolinehydrazide: 20.85%
+  >>D-seryl: 19.40%
+  >>DL-seryl: 18.63%
+  O-tert-butyl: 17.83%
+位置 14:
+  No-mod: 37.59%
+  >>DL-glutaminyl: 33.47%
+  >pyroglutamic acid: 28.94%
+位置 15:
+  No-mod: 25.37%
+  >>D-alpha-glutamyl: 19.53%
+  >>DL-alpha-glutamyl: 19.33%
+  >pyroglutamic acid: 19.20%
+  >>L-gamma-glutamyl: 16.57%
+位置 16:
+  No-mod: 24.47%
+  >>DL-leucyl: 23.37%
+  N-methylation: 18.51%
+  >L-norleucyl: 18.21%
+  >>D-leucyl: 15.43%
+位置 17:
+  No-mod: 30.26%
+  >>DL-histidyl: 24.83%
+  1-benzyl: 23.18%
+  >>D-histidyl: 21.73%
+位置 18:
+  No-mod: 27.32%
+  >>DL-lysyl: 26.48%
+  >>D-lysyl: 25.77%
+  N6-isopropyl modification: 20.44%
+位置 19:
+  No-mod: 24.40%
+  >>DL-leucyl: 23.05%
+  N-methylation: 18.84%
+  >L-norleucyl: 18.09%
+  >>D-leucyl: 15.62%
+位置 20:
+  No-mod: 37.23%
+  >>DL-glutaminyl: 32.71%
+  >pyroglutamic acid: 30.06%
+位置 21:
+  No-mod: 22.95%
+  >L-threoninol: 20.78%
+  >>DL-threonyl: 19.63%
+  >>D-threonyl: 18.56%
+  >>DL-valyl: 18.08%
+位置 22:
+  No-mod: 29.28%
+  >>DL-tyrosyl: 24.60%
+  >>D-tyrosyl: 23.20%
+  N-methylation: 22.93%
+位置 23:
+  No-mod: 23.68%
+  alpha-methyl: 19.87%
+  >>DL-prolyl: 19.52%
+  >L-proline ethylamide: 18.96%
+  >>D-prolyl: 17.96%
+位置 24:
+  No-mod: 17.21%
+  >>D-arginyl: 16.28%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.72%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 13.76%
+  >homoarginyl: 13.73%
+  >L-argininamide: 12.69%
+  >>DL-arginyl: 11.61%
+位置 25:
+  No-mod: 22.88%
+  >L-threoninol: 20.76%
+  >>DL-threonyl: 20.28%
+  >>D-threonyl: 18.39%
+  >>DL-valyl: 17.69%
+位置 26:
+  No-mod: 39.60%
+  >>D-asparaginyl: 31.77%
+  >>DL-asparaginyl: 28.63%
+位置 27:
+  No-mod: 22.88%
+  >L-threoninol: 20.64%
+  >>DL-threonyl: 19.97%
+  >>D-threonyl: 18.34%
+  >>DL-valyl: 18.18%
+位置 28:
+  No-mod: 100.00%
+位置 29:
+  No-mod: 22.67%
+  >L-prolinehydrazide: 20.57%
+  >>D-seryl: 20.33%
+  >>DL-seryl: 19.00%
+  O-tert-butyl: 17.44%
+位置 30:
+  No-mod: 100.00%
+位置 31:
+  No-mod: 23.12%
+  >L-threoninol: 20.24%
+  >>DL-threonyl: 19.27%
+  >>DL-valyl: 18.89%
+  >>D-threonyl: 18.47%
+位置 32:
+  No-mod: 18.29%
+  alpha-methyl: 16.70%
+  >L-prolinamide: 16.56%
+  >>DL-prolyl: 16.40%
+  >L-proline ethylamide: 16.17%
+  >>D-prolyl: 15.88%

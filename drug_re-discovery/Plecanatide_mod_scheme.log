@@ -1,0 +1,84 @@
+
+原始序列: NDECELCVNVACTGCL
+推荐修饰方案：
+位置 1:
+  4-fluorobenzoyl: 13.96%
+  acetyl: 13.64%
+  formyl: 13.33%
+  deamino: 12.76%
+  >>D-asparaginyl: 12.14%
+  No-mod: 11.89%
+  >>DL-asparaginyl: 11.56%
+  decanoyl: 10.72%
+位置 2:
+  >>D-alpha-aspartyl: 34.39%
+  >>DL-alpha-aspartyl: 33.19%
+  No-mod: 32.42%
+位置 3:
+  >pyroglutamic acid: 23.35%
+  >>DL-alpha-glutamyl: 21.12%
+  >>L-gamma-glutamyl: 21.11%
+  No-mod: 19.50%
+  >>D-alpha-glutamyl: 14.92%
+位置 4:
+  >>DL-cysteinyl: 35.80%
+  >>D-cysteinyl: 35.68%
+  No-mod: 28.53%
+位置 5:
+  >pyroglutamic acid: 23.52%
+  >>DL-alpha-glutamyl: 21.49%
+  >>L-gamma-glutamyl: 21.32%
+  No-mod: 19.20%
+  >>D-alpha-glutamyl: 14.46%
+位置 6:
+  N-methylation: 24.07%
+  >L-norleucyl: 21.16%
+  No-mod: 19.13%
+  >>DL-leucyl: 18.85%
+  >>D-leucyl: 16.79%
+位置 7:
+  >>DL-cysteinyl: 35.82%
+  >>D-cysteinyl: 35.69%
+  No-mod: 28.49%
+位置 8:
+  >>D-valyl: 55.60%
+  No-mod: 44.40%
+位置 9:
+  >>D-asparaginyl: 36.43%
+  No-mod: 31.97%
+  >>DL-asparaginyl: 31.61%
+位置 10:
+  >>D-valyl: 55.60%
+  No-mod: 44.40%
+位置 11:
+  alpha-methyl: 13.27%
+  3-(2-naphthyl): 12.10%
+  Boc: 11.56%
+  >>DL-alanyl: 11.21%
+  thienyl: 10.93%
+  3-(3-pyridyl) modification: 10.85%
+  No-mod: 10.47%
+  >>D-alanyl: 9.97%
+  >>beta-alanyl: 9.64%
+位置 12:
+  >>DL-cysteinyl: 35.81%
+  >>D-cysteinyl: 35.69%
+  No-mod: 28.49%
+位置 13:
+  >>D-threonyl: 23.35%
+  >>DL-threonyl: 21.39%
+  No-mod: 19.92%
+  >>DL-valyl: 18.16%
+  >L-threoninol: 17.17%
+位置 14:
+  No-mod: 100.00%
+位置 15:
+  >>DL-cysteinyl: 35.62%
+  >>D-cysteinyl: 35.19%
+  No-mod: 29.20%
+位置 16:
+  >L-norleucyl: 21.89%
+  N-methylation: 21.46%
+  No-mod: 19.62%
+  >>DL-leucyl: 19.05%
+  >>D-leucyl: 17.98%

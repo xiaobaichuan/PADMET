@@ -1,0 +1,77 @@
+
+原始序列: CCEYCCNPACTGCY
+推荐修饰方案：
+位置 1:
+  formyl: 15.14%
+  acetyl: 13.19%
+  4-fluorobenzoyl: 12.70%
+  deamino: 12.41%
+  >>DL-cysteinyl: 12.26%
+  >>D-cysteinyl: 11.81%
+  decanoyl: 11.31%
+  No-mod: 11.19%
+位置 2:
+  >>DL-cysteinyl: 34.36%
+  >>D-cysteinyl: 33.46%
+  No-mod: 32.18%
+位置 3:
+  >pyroglutamic acid: 23.25%
+  >>L-gamma-glutamyl: 20.89%
+  >>D-alpha-glutamyl: 19.14%
+  >>DL-alpha-glutamyl: 19.05%
+  No-mod: 17.67%
+位置 4:
+  >>D-tyrosyl: 27.12%
+  N-methylation: 26.06%
+  No-mod: 23.48%
+  >>DL-tyrosyl: 23.35%
+位置 5:
+  >>D-cysteinyl: 33.58%
+  No-mod: 33.32%
+  >>DL-cysteinyl: 33.10%
+位置 6:
+  >>D-cysteinyl: 33.58%
+  No-mod: 33.32%
+  >>DL-cysteinyl: 33.10%
+位置 7:
+  >>D-asparaginyl: 35.39%
+  No-mod: 34.61%
+  >>DL-asparaginyl: 30.00%
+位置 8:
+  >L-proline ethylamide: 21.31%
+  >>D-prolyl: 21.27%
+  alpha-methyl: 20.13%
+  >>DL-prolyl: 18.87%
+  No-mod: 18.42%
+位置 9:
+  3-(3-pyridyl) modification: 11.93%
+  alpha-methyl: 11.70%
+  >>beta-alanyl: 11.62%
+  3-(2-naphthyl): 11.60%
+  >>D-alanyl: 11.09%
+  thienyl: 10.87%
+  Boc: 10.72%
+  No-mod: 10.70%
+  >>DL-alanyl: 9.77%
+位置 10:
+  >>D-cysteinyl: 33.58%
+  No-mod: 33.33%
+  >>DL-cysteinyl: 33.10%
+位置 11:
+  >L-threoninol: 21.01%
+  >>DL-threonyl: 20.27%
+  >>DL-valyl: 20.01%
+  No-mod: 19.47%
+  >>D-threonyl: 19.24%
+位置 12:
+  No-mod: 100.00%
+位置 13:
+  >>D-cysteinyl: 34.24%
+  No-mod: 33.06%
+  >>DL-cysteinyl: 32.70%
+位置 14:
+  >L-tyrosinamide: 21.49%
+  >>D-tyrosyl: 20.62%
+  N-methylation: 20.35%
+  No-mod: 18.83%
+  >>DL-tyrosyl: 18.72%

@@ -1,0 +1,130 @@
+
+原始序列: CKGKGAKCSRLMYDCCTGSCRSGKC
+推荐修饰方案：
+位置 1:
+  formyl: 13.39%
+  acetyl: 13.20%
+  decanoyl: 12.95%
+  >>DL-cysteinyl: 12.93%
+  No-mod: 12.31%
+  4-fluorobenzoyl: 12.05%
+  >>D-cysteinyl: 11.65%
+  deamino: 11.53%
+位置 2:
+  >>DL-lysyl: 25.96%
+  >>D-lysyl: 25.78%
+  No-mod: 24.71%
+  N6-isopropyl modification: 23.56%
+位置 3:
+  No-mod: 100.00%
+位置 4:
+  >>D-lysyl: 26.90%
+  >>DL-lysyl: 26.03%
+  No-mod: 24.31%
+  N6-isopropyl modification: 22.76%
+位置 5:
+  No-mod: 100.00%
+位置 6:
+  3-(2-naphthyl): 12.04%
+  >>beta-alanyl: 11.70%
+  3-(3-pyridyl) modification: 11.68%
+  No-mod: 11.51%
+  alpha-methyl: 11.09%
+  >>DL-alanyl: 11.03%
+  thienyl: 10.67%
+  >>D-alanyl: 10.15%
+  Boc: 10.12%
+位置 7:
+  >>D-lysyl: 26.94%
+  >>DL-lysyl: 26.05%
+  No-mod: 24.25%
+  N6-isopropyl modification: 22.76%
+位置 8:
+  >>DL-cysteinyl: 36.61%
+  No-mod: 32.67%
+  >>D-cysteinyl: 30.71%
+位置 9:
+  O-tert-butyl: 21.42%
+  No-mod: 20.98%
+  >L-prolinehydrazide: 20.30%
+  >>DL-seryl: 19.94%
+  >>D-seryl: 17.36%
+位置 10:
+  >L-argininamide: 15.52%
+  No-mod: 14.87%
+  >>DL-arginyl: 14.53%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.08%
+  >>D-arginyl: 13.83%
+  >homoarginyl: 13.80%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 13.37%
+位置 11:
+  >L-norleucyl: 21.94%
+  No-mod: 20.25%
+  >>D-leucyl: 20.08%
+  >>DL-leucyl: 19.85%
+  N-methylation: 17.87%
+位置 12:
+  >>D-methionyl: 34.77%
+  No-mod: 33.64%
+  >>DL-methionyl: 31.59%
+位置 13:
+  No-mod: 26.84%
+  >>DL-tyrosyl: 25.05%
+  >>D-tyrosyl: 24.41%
+  N-methylation: 23.70%
+位置 14:
+  No-mod: 33.79%
+  >>D-alpha-aspartyl: 33.16%
+  >>DL-alpha-aspartyl: 33.05%
+位置 15:
+  >>DL-cysteinyl: 36.61%
+  No-mod: 32.67%
+  >>D-cysteinyl: 30.72%
+位置 16:
+  >>DL-cysteinyl: 36.61%
+  No-mod: 32.67%
+  >>D-cysteinyl: 30.72%
+位置 17:
+  >>DL-threonyl: 22.17%
+  >>DL-valyl: 21.11%
+  No-mod: 19.81%
+  >L-threoninol: 18.75%
+  >>D-threonyl: 18.16%
+位置 18:
+  No-mod: 100.00%
+位置 19:
+  O-tert-butyl: 21.42%
+  No-mod: 20.98%
+  >L-prolinehydrazide: 20.30%
+  >>DL-seryl: 19.95%
+  >>D-seryl: 17.36%
+位置 20:
+  >>DL-cysteinyl: 36.60%
+  No-mod: 32.68%
+  >>D-cysteinyl: 30.73%
+位置 21:
+  >L-argininamide: 15.53%
+  No-mod: 14.87%
+  >>DL-arginyl: 14.53%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.08%
+  >>D-arginyl: 13.83%
+  >homoarginyl: 13.80%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 13.37%
+位置 22:
+  O-tert-butyl: 21.40%
+  No-mod: 20.96%
+  >L-prolinehydrazide: 20.30%
+  >>DL-seryl: 19.97%
+  >>D-seryl: 17.37%
+位置 23:
+  No-mod: 100.00%
+位置 24:
+  >>D-lysyl: 27.31%
+  >>DL-lysyl: 25.58%
+  No-mod: 24.51%
+  N6-isopropyl modification: 22.60%
+位置 25:
+  >>DL-cysteinyl: 26.61%
+  No-mod: 25.44%
+  >>D-cysteinyl: 25.32%
+  >L-cysteinamide: 22.62%

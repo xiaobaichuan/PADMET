@@ -1,0 +1,44 @@
+
+原始序列: DTMGWMDF
+推荐修饰方案：
+位置 1:
+  formyl: 14.73%
+  4-fluorobenzoyl: 13.12%
+  deamino: 13.11%
+  acetyl: 13.01%
+  decanoyl: 12.63%
+  >>D-alpha-aspartyl: 11.39%
+  >>DL-alpha-aspartyl: 11.08%
+  No-mod: 10.94%
+位置 2:
+  >>DL-threonyl: 21.82%
+  >>D-threonyl: 21.38%
+  >>DL-valyl: 21.00%
+  >L-threoninol: 18.65%
+  No-mod: 17.15%
+位置 3:
+  >>DL-methionyl: 37.97%
+  >>D-methionyl: 33.02%
+  No-mod: 29.02%
+位置 4:
+  No-mod: 100.00%
+位置 5:
+  >>D-tryptophanyl: 42.67%
+  >>DL-tryptophanyl: 29.53%
+  No-mod: 27.80%
+位置 6:
+  >>DL-methionyl: 38.45%
+  >>D-methionyl: 32.14%
+  No-mod: 29.42%
+位置 7:
+  >>D-alpha-aspartyl: 35.75%
+  >>DL-alpha-aspartyl: 33.12%
+  No-mod: 31.14%
+位置 8:
+  >phenylalaninamide: 16.35%
+  4-chloro: 15.75%
+  4-((S)-dihydroorotamido): 15.02%
+  4-ureido: 13.95%
+  No-mod: 13.70%
+  >>DL-phenylalanyl: 12.75%
+  >>D-phenylalanyl: 12.46%

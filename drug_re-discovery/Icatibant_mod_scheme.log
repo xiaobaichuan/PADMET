@@ -1,0 +1,68 @@
+
+原始序列: RRPPGASTR
+推荐修饰方案：
+位置 1:
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 9.63%
+  >>D-arginyl: 9.58%
+  acetyl: 9.17%
+  >L-argininamide: 8.93%
+  No-mod: 8.85%
+  >>DL-arginyl: 8.00%
+  formyl: 7.95%
+  4-fluorobenzoyl: 7.92%
+  >homoarginyl: 7.75%
+  deamino: 7.55%
+  decanoyl: 7.44%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 7.22%
+位置 2:
+  >>D-arginyl: 16.35%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 15.94%
+  No-mod: 15.60%
+  >L-argininamide: 14.40%
+  >>DL-arginyl: 13.34%
+  >homoarginyl: 12.39%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 11.98%
+位置 3:
+  No-mod: 24.55%
+  >>DL-prolyl: 22.00%
+  >L-proline ethylamide: 19.88%
+  >>D-prolyl: 17.11%
+  alpha-methyl: 16.46%
+位置 4:
+  No-mod: 24.85%
+  >>DL-prolyl: 22.10%
+  >L-proline ethylamide: 19.46%
+  >>D-prolyl: 17.24%
+  alpha-methyl: 16.35%
+位置 5:
+  No-mod: 100.00%
+位置 6:
+  No-mod: 14.23%
+  >>beta-alanyl: 13.67%
+  >>DL-alanyl: 11.45%
+  3-(2-naphthyl): 11.39%
+  Boc: 10.60%
+  >>D-alanyl: 10.12%
+  3-(3-pyridyl) modification: 10.00%
+  alpha-methyl: 9.38%
+  thienyl: 9.16%
+位置 7:
+  No-mod: 23.96%
+  >L-prolinehydrazide: 21.76%
+  O-tert-butyl: 18.52%
+  >>DL-seryl: 17.91%
+  >>D-seryl: 17.84%
+位置 8:
+  No-mod: 23.56%
+  >>DL-threonyl: 19.95%
+  >>DL-valyl: 19.24%
+  >L-threoninol: 19.04%
+  >>D-threonyl: 18.21%
+位置 9:
+  >>D-arginyl: 16.19%
+  No-mod: 15.12%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 14.82%
+  >>DL-arginyl: 14.52%
+  >L-argininamide: 13.87%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 13.27%
+  >homoarginyl: 12.22%

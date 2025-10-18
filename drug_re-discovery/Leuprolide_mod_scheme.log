@@ -1,0 +1,59 @@
+
+原始序列: QHWSYLLRP
+推荐修饰方案：
+位置 1:
+  decanoyl: 13.53%
+  acetyl: 13.34%
+  deamino: 13.33%
+  >pyroglutamic acid: 13.19%
+  >>DL-glutaminyl: 13.07%
+  formyl: 11.81%
+  4-fluorobenzoyl: 11.06%
+  No-mod: 10.66%
+位置 2:
+  >>D-histidyl: 29.96%
+  1-benzyl: 25.99%
+  No-mod: 22.15%
+  >>DL-histidyl: 21.91%
+位置 3:
+  >>DL-tryptophanyl: 37.09%
+  >>D-tryptophanyl: 33.66%
+  No-mod: 29.26%
+位置 4:
+  O-tert-butyl: 22.27%
+  >L-prolinehydrazide: 20.53%
+  >>DL-seryl: 20.15%
+  >>D-seryl: 19.86%
+  No-mod: 17.19%
+位置 5:
+  >>D-tyrosyl: 28.14%
+  >>DL-tyrosyl: 26.14%
+  No-mod: 22.88%
+  N-methylation: 22.84%
+位置 6:
+  >>DL-leucyl: 22.95%
+  >>D-leucyl: 22.27%
+  >L-norleucyl: 21.07%
+  No-mod: 16.91%
+  N-methylation: 16.80%
+位置 7:
+  >>DL-leucyl: 22.94%
+  >>D-leucyl: 21.81%
+  >L-norleucyl: 21.07%
+  No-mod: 17.30%
+  N-methylation: 16.87%
+位置 8:
+  >>DL-arginyl: 16.56%
+  >homoarginyl: 15.93%
+  (2S,3aS,7aS)-octahydroindole-2-carbonyl: 14.96%
+  No-mod: 13.61%
+  >>D-arginyl: 13.37%
+  (3R)-1,2,3,4-tetrahydroisoquinoline-3-carbonyl: 12.87%
+  >L-argininamide: 12.71%
+位置 9:
+  >>DL-prolyl: 18.21%
+  No-mod: 17.20%
+  >L-proline ethylamide: 16.77%
+  alpha-methyl: 16.71%
+  >>D-prolyl: 15.95%
+  >L-prolinamide: 15.15%

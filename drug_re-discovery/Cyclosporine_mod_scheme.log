@@ -1,0 +1,70 @@
+
+原始序列: CVALLADGPLC
+推荐修饰方案：
+位置 1:
+  acetyl: 14.17%
+  deamino: 13.48%
+  >>DL-cysteinyl: 13.12%
+  No-mod: 12.35%
+  4-fluorobenzoyl: 12.23%
+  decanoyl: 11.97%
+  >>D-cysteinyl: 11.86%
+  formyl: 10.82%
+位置 2:
+  No-mod: 52.84%
+  >>D-valyl: 47.16%
+位置 3:
+  3-(2-naphthyl): 13.11%
+  No-mod: 12.44%
+  >>DL-alanyl: 11.44%
+  >>beta-alanyl: 11.42%
+  3-(3-pyridyl) modification: 11.00%
+  alpha-methyl: 10.96%
+  thienyl: 10.59%
+  Boc: 10.23%
+  >>D-alanyl: 8.81%
+位置 4:
+  >>DL-leucyl: 28.74%
+  No-mod: 22.29%
+  >>D-leucyl: 19.01%
+  >L-norleucyl: 16.75%
+  N-methylation: 13.21%
+位置 5:
+  >>DL-leucyl: 28.76%
+  No-mod: 22.30%
+  >>D-leucyl: 19.01%
+  >L-norleucyl: 16.73%
+  N-methylation: 13.20%
+位置 6:
+  3-(2-naphthyl): 12.97%
+  No-mod: 12.60%
+  >>beta-alanyl: 11.60%
+  >>DL-alanyl: 11.42%
+  alpha-methyl: 11.09%
+  3-(3-pyridyl) modification: 10.92%
+  thienyl: 10.55%
+  Boc: 10.08%
+  >>D-alanyl: 8.77%
+位置 7:
+  No-mod: 38.29%
+  >>DL-alpha-aspartyl: 35.17%
+  >>D-alpha-aspartyl: 26.54%
+位置 8:
+  No-mod: 100.00%
+位置 9:
+  No-mod: 22.00%
+  >L-proline ethylamide: 20.97%
+  alpha-methyl: 19.48%
+  >>DL-prolyl: 19.36%
+  >>D-prolyl: 18.19%
+位置 10:
+  >>DL-leucyl: 27.06%
+  No-mod: 22.55%
+  >>D-leucyl: 19.63%
+  >L-norleucyl: 16.66%
+  N-methylation: 14.11%
+位置 11:
+  No-mod: 28.80%
+  >>DL-cysteinyl: 26.14%
+  >>D-cysteinyl: 23.72%
+  >L-cysteinamide: 21.34%

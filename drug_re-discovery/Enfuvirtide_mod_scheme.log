@@ -1,0 +1,200 @@
+
+原始序列: YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF
+推荐修饰方案：
+位置 1:
+  deamino: 12.86%
+  >>DL-tyrosyl: 12.26%
+  No-mod: 11.59%
+  decanoyl: 11.07%
+  acetyl: 11.06%
+  >>D-tyrosyl: 10.65%
+  4-fluorobenzoyl: 10.59%
+  N-methylation: 10.34%
+  formyl: 9.58%
+位置 2:
+  >>DL-threonyl: 22.68%
+  >L-threoninol: 20.98%
+  No-mod: 19.70%
+  >>D-threonyl: 18.79%
+  >>DL-valyl: 17.86%
+位置 3:
+  No-mod: 21.23%
+  >>D-seryl: 20.64%
+  >L-prolinehydrazide: 20.56%
+  O-tert-butyl: 20.47%
+  >>DL-seryl: 17.09%
+位置 4:
+  >>D-leucyl: 22.62%
+  No-mod: 21.33%
+  >L-norleucyl: 19.14%
+  >>DL-leucyl: 18.75%
+  N-methylation: 18.16%
+位置 5:
+  No-mod: 34.19%
+  >>DL-isoleucyl: 33.12%
+  >>D-isoleucyl: 32.70%
+位置 6:
+  1-benzyl: 26.33%
+  No-mod: 25.99%
+  >>DL-histidyl: 25.63%
+  >>D-histidyl: 22.05%
+位置 7:
+  No-mod: 22.05%
+  >L-prolinehydrazide: 20.88%
+  O-tert-butyl: 20.28%
+  >>D-seryl: 19.82%
+  >>DL-seryl: 16.97%
+位置 8:
+  >>D-leucyl: 22.95%
+  No-mod: 22.28%
+  >L-norleucyl: 18.76%
+  >>DL-leucyl: 18.12%
+  N-methylation: 17.89%
+位置 9:
+  No-mod: 35.30%
+  >>D-isoleucyl: 32.37%
+  >>DL-isoleucyl: 32.32%
+位置 10:
+  No-mod: 23.96%
+  >>L-gamma-glutamyl: 19.40%
+  >>DL-alpha-glutamyl: 19.13%
+  >pyroglutamic acid: 18.99%
+  >>D-alpha-glutamyl: 18.51%
+位置 11:
+  No-mod: 23.91%
+  >>L-gamma-glutamyl: 19.32%
+  >>DL-alpha-glutamyl: 19.25%
+  >pyroglutamic acid: 18.89%
+  >>D-alpha-glutamyl: 18.63%
+位置 12:
+  No-mod: 22.22%
+  >L-prolinehydrazide: 20.58%
+  O-tert-butyl: 20.08%
+  >>D-seryl: 19.91%
+  >>DL-seryl: 17.21%
+位置 13:
+  No-mod: 38.58%
+  >>DL-glutaminyl: 31.18%
+  >pyroglutamic acid: 30.23%
+位置 14:
+  No-mod: 35.77%
+  >>D-asparaginyl: 33.94%
+  >>DL-asparaginyl: 30.29%
+位置 15:
+  No-mod: 38.60%
+  >>DL-glutaminyl: 30.82%
+  >pyroglutamic acid: 30.58%
+位置 16:
+  No-mod: 38.51%
+  >>DL-glutaminyl: 30.76%
+  >pyroglutamic acid: 30.73%
+位置 17:
+  No-mod: 24.02%
+  >pyroglutamic acid: 19.41%
+  >>DL-alpha-glutamyl: 19.09%
+  >>L-gamma-glutamyl: 18.84%
+  >>D-alpha-glutamyl: 18.63%
+位置 18:
+  No-mod: 27.62%
+  >>D-lysyl: 26.08%
+  N6-isopropyl modification: 23.55%
+  >>DL-lysyl: 22.75%
+位置 19:
+  No-mod: 36.17%
+  >>D-asparaginyl: 33.66%
+  >>DL-asparaginyl: 30.17%
+位置 20:
+  No-mod: 24.43%
+  >pyroglutamic acid: 19.34%
+  >>DL-alpha-glutamyl: 19.10%
+  >>L-gamma-glutamyl: 18.85%
+  >>D-alpha-glutamyl: 18.27%
+位置 21:
+  No-mod: 39.14%
+  >pyroglutamic acid: 30.74%
+  >>DL-glutaminyl: 30.12%
+位置 22:
+  No-mod: 24.54%
+  >pyroglutamic acid: 19.45%
+  >>DL-alpha-glutamyl: 18.96%
+  >>L-gamma-glutamyl: 18.89%
+  >>D-alpha-glutamyl: 18.17%
+位置 23:
+  >>D-leucyl: 23.24%
+  No-mod: 23.05%
+  >>DL-leucyl: 18.00%
+  >L-norleucyl: 17.89%
+  N-methylation: 17.82%
+位置 24:
+  >>D-leucyl: 23.15%
+  No-mod: 22.86%
+  >>DL-leucyl: 18.25%
+  >L-norleucyl: 17.94%
+  N-methylation: 17.80%
+位置 25:
+  No-mod: 23.95%
+  >pyroglutamic acid: 19.75%
+  >>L-gamma-glutamyl: 19.02%
+  >>D-alpha-glutamyl: 18.75%
+  >>DL-alpha-glutamyl: 18.53%
+位置 26:
+  >>D-leucyl: 22.68%
+  No-mod: 22.31%
+  >>DL-leucyl: 19.15%
+  >L-norleucyl: 18.09%
+  N-methylation: 17.77%
+位置 27:
+  No-mod: 37.21%
+  >>DL-alpha-aspartyl: 32.19%
+  >>D-alpha-aspartyl: 30.60%
+位置 28:
+  No-mod: 27.35%
+  >>D-lysyl: 25.88%
+  N6-isopropyl modification: 24.59%
+  >>DL-lysyl: 22.19%
+位置 29:
+  No-mod: 38.01%
+  >>D-tryptophanyl: 35.36%
+  >>DL-tryptophanyl: 26.63%
+位置 30:
+  >>beta-alanyl: 12.40%
+  No-mod: 12.34%
+  Boc: 11.90%
+  >>DL-alanyl: 11.43%
+  3-(3-pyridyl) modification: 11.08%
+  alpha-methyl: 11.05%
+  thienyl: 10.32%
+  >>D-alanyl: 10.23%
+  3-(2-naphthyl): 9.25%
+位置 31:
+  No-mod: 22.35%
+  >L-prolinehydrazide: 20.50%
+  O-tert-butyl: 20.31%
+  >>D-seryl: 19.34%
+  >>DL-seryl: 17.51%
+位置 32:
+  No-mod: 21.94%
+  >>D-leucyl: 21.58%
+  >>DL-leucyl: 19.42%
+  >L-norleucyl: 19.28%
+  N-methylation: 17.77%
+位置 33:
+  No-mod: 37.34%
+  >>D-tryptophanyl: 35.32%
+  >>DL-tryptophanyl: 27.33%
+位置 34:
+  No-mod: 34.68%
+  >>D-asparaginyl: 34.42%
+  >>DL-asparaginyl: 30.91%
+位置 35:
+  >>D-tryptophanyl: 35.90%
+  No-mod: 35.68%
+  >>DL-tryptophanyl: 28.42%
+位置 36:
+  >>DL-phenylalanyl: 15.21%
+  4-chloro: 14.85%
+  >phenylalaninamide: 14.51%
+  4-ureido: 14.43%
+  No-mod: 14.14%
+  >>D-phenylalanyl: 13.43%
+  4-((S)-dihydroorotamido): 13.43%

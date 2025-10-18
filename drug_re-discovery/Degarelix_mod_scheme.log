@@ -1,0 +1,83 @@
+
+原始序列: AFASFFLKPA
+推荐修饰方案：
+位置 1:
+  3-(3-pyridyl) modification: 7.92%
+  >>DL-alanyl: 7.87%
+  Boc: 7.75%
+  deamino: 7.68%
+  4-fluorobenzoyl: 7.25%
+  formyl: 7.22%
+  thienyl: 7.05%
+  >>D-alanyl: 6.90%
+  alpha-methyl: 6.87%
+  decanoyl: 6.84%
+  No-mod: 6.84%
+  acetyl: 6.76%
+  3-(2-naphthyl): 6.61%
+  >>beta-alanyl: 6.43%
+位置 2:
+  >>DL-phenylalanyl: 17.83%
+  No-mod: 17.42%
+  >>D-phenylalanyl: 17.16%
+  4-((S)-dihydroorotamido): 16.78%
+  4-ureido: 16.45%
+  4-chloro: 14.36%
+位置 3:
+  >>DL-alanyl: 12.20%
+  Boc: 12.14%
+  3-(3-pyridyl) modification: 11.94%
+  thienyl: 11.22%
+  >>D-alanyl: 10.98%
+  No-mod: 10.90%
+  alpha-methyl: 10.38%
+  >>beta-alanyl: 10.24%
+  3-(2-naphthyl): 10.00%
+位置 4:
+  >>DL-seryl: 22.23%
+  >L-prolinehydrazide: 21.71%
+  No-mod: 19.83%
+  >>D-seryl: 19.11%
+  O-tert-butyl: 17.13%
+位置 5:
+  >>DL-phenylalanyl: 17.89%
+  No-mod: 17.66%
+  >>D-phenylalanyl: 17.41%
+  4-((S)-dihydroorotamido): 16.67%
+  4-ureido: 16.27%
+  4-chloro: 14.11%
+位置 6:
+  >>DL-phenylalanyl: 17.90%
+  No-mod: 17.66%
+  >>D-phenylalanyl: 17.40%
+  4-((S)-dihydroorotamido): 16.66%
+  4-ureido: 16.28%
+  4-chloro: 14.10%
+位置 7:
+  >>D-leucyl: 23.22%
+  >L-norleucyl: 20.93%
+  N-methylation: 19.14%
+  No-mod: 18.71%
+  >>DL-leucyl: 18.00%
+位置 8:
+  N6-isopropyl modification: 26.00%
+  >>DL-lysyl: 25.23%
+  No-mod: 24.49%
+  >>D-lysyl: 24.29%
+位置 9:
+  >>D-prolyl: 22.58%
+  >L-proline ethylamide: 20.86%
+  No-mod: 19.46%
+  alpha-methyl: 18.97%
+  >>DL-prolyl: 18.13%
+位置 10:
+  >L-alaninamide: 10.81%
+  Boc: 10.74%
+  3-(3-pyridyl) modification: 10.47%
+  >>DL-alanyl: 10.42%
+  thienyl: 9.92%
+  >>D-alanyl: 9.91%
+  No-mod: 9.65%
+  >>beta-alanyl: 9.42%
+  3-(2-naphthyl): 9.37%
+  alpha-methyl: 9.28%
